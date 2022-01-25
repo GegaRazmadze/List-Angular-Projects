@@ -5,3 +5,5 @@ I'm Gega - Web Developer. This is the list of my Angular Projects which include:
 ### List of Angular's features
 <ul>
   <li>:sunrise_over_mountains: Routing and Navigation - <a href="https://github.com/GegaRazmadze/Routing-and-Navigation">Github</a> - :fast_forward: <a href="##############">Live</a></li>
+
+  Firebase
