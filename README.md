@@ -6,5 +6,8 @@ I'm Gega - Web Developer. This is the list of my Angular Projects which include:
 ### List of Angular's features
 <ul>
   <li>:weight_lifting_man: Fitness Tracker - <a href="https://ng-fitness-tracker-ca3de.web.app">Github</a> - :fast_forward: <a href="##############">Live</a></li>
-
-  Firebase
+</ul>
+### List of Angular's Project made by frameworks related to Angular
+<ul>
+<li>:weight_lifting_man: Fitness Tracker - <a href="https://ng-fitness-tracker-ca3de.web.app">Github</a> - :fast_forward: <a href="##############">Live</a></li>
+</ul>
