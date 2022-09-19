@@ -3,7 +3,7 @@
 
 I'm Gega - Web Developer. This is the list of my Angular Projects which include: Angular's features (Routing and Navigation, Forms, HTTP, Testing etc.) and frameworks related to Angular (Bootstrap, Material, NGRX, RxJS etc.)
 
-### List of Angular's features
+### List of Angular's Projects
 <ul>
   <li>:weight_lifting_man: Fitness Tracker - <a href="https://github.com/GegaRazmadze/fitness-tracker">Github</a> - :fast_forward: <a href="https://ng-fitness-tracker-ca3de.web.app">Live</a></li>
 </ul>
